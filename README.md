@@ -26,6 +26,7 @@
 | [0053-maximum-subarray](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,9 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
