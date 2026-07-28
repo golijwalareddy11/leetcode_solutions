@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
