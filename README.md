@@ -6,6 +6,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
