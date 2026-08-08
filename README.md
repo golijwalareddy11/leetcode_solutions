@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 ## Sorting
@@ -58,9 +60,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
