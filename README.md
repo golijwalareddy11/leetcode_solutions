@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0507-perfect-number) |
 ## Bit Manipulation
 |  |
 | ------- |
