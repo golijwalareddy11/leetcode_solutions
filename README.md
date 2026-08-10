@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -66,6 +67,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Floyd's Cycle Finding Algorithm
 |  |
