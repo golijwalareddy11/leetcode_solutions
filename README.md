@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
