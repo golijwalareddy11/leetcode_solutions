@@ -11,6 +11,7 @@
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0507-perfect-number) |
+| [2544-alternating-digit-sum](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2544-alternating-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
