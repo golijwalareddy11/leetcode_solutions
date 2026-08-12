@@ -22,6 +22,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [2788-split-strings-by-separator](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2788-split-strings-by-separator) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0704-binary-search](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2788-split-strings-by-separator](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2788-split-strings-by-separator) |
 ## Binary Search
 |  |
 | ------- |
