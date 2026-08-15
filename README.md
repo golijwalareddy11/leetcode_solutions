@@ -17,6 +17,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2788-split-strings-by-separator](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2788-split-strings-by-separator) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
