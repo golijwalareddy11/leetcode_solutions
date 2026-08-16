@@ -7,6 +7,7 @@
 | [0029-divide-two-integers](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
