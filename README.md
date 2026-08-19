@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2788-split-strings-by-separator](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2788-split-strings-by-separator) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
