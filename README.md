@@ -26,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [1678-goal-parser-interpretation](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [2788-split-strings-by-separator](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2788-split-strings-by-separator) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
