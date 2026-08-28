@@ -43,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@
 | [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -84,6 +87,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -92,6 +96,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
