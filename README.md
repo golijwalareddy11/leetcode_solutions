@@ -31,12 +31,14 @@
 | [2418-sort-the-people](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2788-split-strings-by-separator) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
