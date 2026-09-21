@@ -26,6 +26,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1678-goal-parser-interpretation](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [2418-sort-the-people](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
