@@ -13,6 +13,7 @@
 | [0326-power-of-three](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2544-alternating-digit-sum](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
@@ -53,6 +54,7 @@
 | [0575-distribute-candies](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
