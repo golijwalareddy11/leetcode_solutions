@@ -16,6 +16,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2544-alternating-digit-sum](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0175-combine-two-tables) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
