@@ -29,6 +29,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1678-goal-parser-interpretation](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
@@ -78,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
@@ -145,4 +147,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
