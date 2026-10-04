@@ -50,6 +50,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
