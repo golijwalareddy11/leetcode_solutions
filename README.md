@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0175-combine-two-tables) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Number Theory
 |  |
 | ------- |
