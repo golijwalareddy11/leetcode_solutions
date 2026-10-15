@@ -65,6 +65,7 @@
 | [1929-concatenation-of-array](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2788-split-strings-by-separator) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -97,6 +98,7 @@
 | [0575-distribute-candies](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2418-sort-the-people) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -168,4 +170,12 @@
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/golijwalareddy11/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
